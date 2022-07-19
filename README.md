@@ -1,3 +1,3 @@
 # car_emissions
 - This project discusses the the cars that cause air pollution by emitting carbon 
-- Visuals were made using Microsoft Power BI and they're attached as a PDF
+- For interactive visuals : https://www.novypro.com/project/car-emissions
